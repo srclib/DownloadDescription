@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">srclib.huyanwei.downloaddescriptor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="object_url">Object URI</string>
+    <string name="text_view">TextView</string>
+    <string name="size">Size</string>
+    <string name="type">Type</string>
+    <string name="name">Name</string>
+    <string name="vendor">Vendor</string>
+    <string name="description">Description</string>
+    <string name="install_notify_url">Install Notify URL</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+   <string name="result">This is the result activity opened from the notification</string>
+
+</resources>
